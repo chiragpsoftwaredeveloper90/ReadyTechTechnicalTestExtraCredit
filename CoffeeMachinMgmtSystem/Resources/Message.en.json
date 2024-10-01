@@ -1,0 +1,7 @@
+{
+  "coffeeReady": "Your piping hot coffee is ready",
+  "teapotMessage": "I'm a teapot",
+  "outOfCoffee": "The coffee machine is out of coffee",
+  "CoffeeMatchinError": "The coffee machine is not working",
+  "icedCoffeeReady": "Your refreshing iced coffee is ready"
+}
